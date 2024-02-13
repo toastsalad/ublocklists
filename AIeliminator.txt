@@ -1,0 +1,21 @@
+! Title: AIEliminator
+! Dev: toastsalad
+! Description: removes ai suggestions from google images and other places
+! Homepage: https://github.com/toastsalad/ublocklists
+
+://www.dreamstime.com/
+://www.freepik.com/
+://www.craiyon.com/
+://stock.adobe.com/
+://storybird.ai/
+://www.dinosaur.org/
+://pngtree.com/
+://creator.nightcafe.studio/
+://www.123rf.com/
+://lumenor.ai/
+://neural.love/
+://www.vecteezy.com/
+://openart.ai/
+://www.artpal.com/
+://generativeai.pub/
+://promptbase.com/
