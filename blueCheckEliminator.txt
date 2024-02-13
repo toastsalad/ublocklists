@@ -1,3 +1,8 @@
+! Homepage: https://github.com/toastsalad/ublocklists
+! Title: Twitter Cleaner
+! Version: 1
+! Expires: 15 days
+! Description: I kept getting recommended violent content from bluechecks so I removed them and my twitter is much nicer
 twitter.com##[data-testid="tweet"]:has-text(Promoted)
 twitter.com##[data-testid="UserCell"]:has-text(Promoted)
 twitter.com##article [data-testid="icon-verified"] :upward(article)
