@@ -3,7 +3,7 @@
 ! Version: 1
 ! Expires: 15 days
 ! Description: I kept getting recommended violent content from bluechecks so I removed them and my twitter is much nicer
-twitter.com##[data-testid="tweet"]:has-text(Promoted)
-twitter.com##[data-testid="UserCell"]:has-text(Promoted)
-twitter.com##article [data-testid="icon-verified"] :upward(article)
-twitter.com##.css-1dbjc4n.r-1habvwh.r-18u37iz.r-1wtj0ep [data-testid="verified-badge"]
+x.com##[data-testid="tweet"]:has-text(Promoted)
+x.com##[data-testid="UserCell"]:has-text(Promoted)
+x.com##article [data-testid="icon-verified"] :upward(article)
+x.com##.css-1dbjc4n.r-1habvwh.r-18u37iz.r-1wtj0ep [data-testid="verified-badge"]
